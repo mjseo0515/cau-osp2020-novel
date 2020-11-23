@@ -2305,6 +2305,9 @@
 ```
 
 그때서야 톰은 걱정이 풀렸는지, 긴장이 풀린 표정으로 제리를 향해 밝게 웃어보였다.
+<!-- 밝게 웃는 톰의 그림 -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74254652/99974080-ce7c2280-2de3-11eb-9130-885548e9c366.png" width="50%" height="50%">
 
 ```
 몸을 다 녹였으면 다시 출발해 볼까?
